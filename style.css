@@ -1,0 +1,33 @@
+body {
+    background-color:bisque
+}
+
+h1 {
+    color:darkgreen
+}
+
+ul {
+    font-size:110%; 
+}
+
+p {
+    font-size:105%;
+}
+
+.serif {
+    font-family: "Times New Roman", Times,
+serif;
+}
+
+.dataBlock {
+    color:darkgreen;
+    background-color:lemonchiffon;
+}
+.dataBlock img{
+    width: 85px;
+    height: 85px;
+}
+
+.dataBlock a {
+    align="center";
+}
